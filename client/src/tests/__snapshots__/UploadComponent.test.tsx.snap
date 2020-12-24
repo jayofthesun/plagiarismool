@@ -1,0 +1,342 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests for the main upload component UploadComponent snapshot is properly rendered. 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div
+      class="app"
+      id="app"
+    >
+      <div
+        class="_loading_overlay_wrapper css-18nsqm8"
+        data-testid="wrapper"
+      >
+        <section
+          class="upload-body"
+        >
+          <div
+            class="withRouter(UploadComponent)-title-1"
+          >
+            <h1>
+              Typescript Plagiarism Detector
+            </h1>
+            <p>
+              Helps detect potential plagiarism files for .js, .jsx, .ts, and .tsx files
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root withRouter(UploadComponent)-gridContainer-2 MuiGrid-container MuiGrid-justify-xs-space-evenly"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <h3>
+                First, upload your two groups of files:
+              </h3>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+            >
+              <div
+                class="FileUploadComponent-container-3"
+              >
+                <div
+                  class="MuiInputBase-root MuiInput-root MuiInput-underline"
+                >
+                  <input
+                    accept=".js, .jsx, .ts, .tsx"
+                    class="MuiInputBase-input MuiInput-input"
+                    multiple=""
+                    type="file"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+            >
+              <div
+                class="FileUploadComponent-container-3"
+              >
+                <div
+                  class="MuiInputBase-root MuiInput-root MuiInput-underline"
+                >
+                  <input
+                    accept=".js, .jsx, .ts, .tsx"
+                    class="MuiInputBase-input MuiInput-input"
+                    multiple=""
+                    type="file"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <h3>
+                Next, start scan!
+              </h3>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary Mui-disabled Mui-disabled"
+                disabled=""
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Start Scan!
+                </span>
+              </button>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+    <div>
+      <div
+        class="_loading_overlay_wrapper css-18nsqm8"
+        data-testid="wrapper"
+      >
+        <section
+          class="upload-body"
+        >
+          <div
+            class="withRouter(UploadComponent)-title-1"
+          >
+            <h1>
+              Typescript Plagiarism Detector
+            </h1>
+            <p>
+              Helps detect potential plagiarism files for .js, .jsx, .ts, and .tsx files
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root withRouter(UploadComponent)-gridContainer-2 MuiGrid-container MuiGrid-justify-xs-space-evenly"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <h3>
+                First, upload your two groups of files:
+              </h3>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+            >
+              <div
+                class="FileUploadComponent-container-3"
+              >
+                <div
+                  class="MuiInputBase-root MuiInput-root MuiInput-underline"
+                >
+                  <input
+                    accept=".js, .jsx, .ts, .tsx"
+                    class="MuiInputBase-input MuiInput-input"
+                    multiple=""
+                    type="file"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+            >
+              <div
+                class="FileUploadComponent-container-3"
+              >
+                <div
+                  class="MuiInputBase-root MuiInput-root MuiInput-underline"
+                >
+                  <input
+                    accept=".js, .jsx, .ts, .tsx"
+                    class="MuiInputBase-input MuiInput-input"
+                    multiple=""
+                    type="file"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <h3>
+                Next, start scan!
+              </h3>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary Mui-disabled Mui-disabled"
+                disabled=""
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Start Scan!
+                </span>
+              </button>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="_loading_overlay_wrapper css-18nsqm8"
+      data-testid="wrapper"
+    >
+      <section
+        class="upload-body"
+      >
+        <div
+          class="withRouter(UploadComponent)-title-1"
+        >
+          <h1>
+            Typescript Plagiarism Detector
+          </h1>
+          <p>
+            Helps detect potential plagiarism files for .js, .jsx, .ts, and .tsx files
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root withRouter(UploadComponent)-gridContainer-2 MuiGrid-container MuiGrid-justify-xs-space-evenly"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <h3>
+              First, upload your two groups of files:
+            </h3>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+          >
+            <div
+              class="FileUploadComponent-container-3"
+            >
+              <div
+                class="MuiInputBase-root MuiInput-root MuiInput-underline"
+              >
+                <input
+                  accept=".js, .jsx, .ts, .tsx"
+                  class="MuiInputBase-input MuiInput-input"
+                  multiple=""
+                  type="file"
+                  value=""
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+          >
+            <div
+              class="FileUploadComponent-container-3"
+            >
+              <div
+                class="MuiInputBase-root MuiInput-root MuiInput-underline"
+              >
+                <input
+                  accept=".js, .jsx, .ts, .tsx"
+                  class="MuiInputBase-input MuiInput-input"
+                  multiple=""
+                  type="file"
+                  value=""
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <h3>
+              Next, start scan!
+            </h3>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary Mui-disabled Mui-disabled"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Start Scan!
+              </span>
+            </button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
